@@ -18,7 +18,7 @@
 
    1. Окно входа
 ![](https://github.com/Sarc-Kil/proect_5/blob/master/screnchot/Снимок5.1.PNG)
-   2. Окно входа(Ошибка ввода)
+   2. Окно подключения пользователей
 ![](https://github.com/Sarc-Kil/proect_5/blob/master/screnchot/Снимок5.2.PNG)
       
 ## Установка
